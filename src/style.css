@@ -1,0 +1,20 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgba(248, 92, 8, 0.897);
+}
+
+
+li {
+    list-style: square;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(70, 69, 69);
+}
+
+
